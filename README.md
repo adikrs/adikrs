@@ -32,7 +32,12 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="adikrs's GitHub Stats" src="https://github-readme-stats-r81408g2w-adikrs.vercel.app/api?username=adikrs&show_icons=true&hide_border=true" />
+
+</details>
 
 
 <!-- [website]: https://codeSTACKr.com -->
